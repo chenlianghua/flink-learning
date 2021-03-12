@@ -1,0 +1,8 @@
+hello word
+this is a flink test txt file
+welcome to flink
+flink.ag
+flink.ddd
+flink.adf
+flink.gdga
+flink.geye
